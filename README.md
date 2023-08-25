@@ -3,4 +3,4 @@ https://www.google.com/url?sa=i&url=https%3A%2F%2Ftowardsdatascience.com%2Fintro
 
 
 ![image](https://github.com/AlexLop22/Fall-Semester2023/assets/142961389/8f43cb7f-a15f-4c6c-9a4c-3006bb750d9d)
-![image](https://github.com/AlexLop22/Fall-Semester2023/assets/142961389/b2b20cb8-53eb-442d-a570-bd1765bc32a1)
+50 slides for project ideas. ![image](https://docs.google.com/presentation/d/1tNSQPGY3NUY5aMz6-qTBxUEz8A33NzvmXxz6OUtENQM/edit#slide=id.g206f8279a60_0_149)
